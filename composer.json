@@ -1,0 +1,10 @@
+{
+  "require": {
+    "ratchet/pawl": "^0.2",
+    "monolog/monolog": "^1.2",
+    "guzzlehttp/guzzle": "^6.2"
+  },
+    "autoload": {
+        "psr-4": {"Ari\\": "src/Ari"}
+    }
+}
